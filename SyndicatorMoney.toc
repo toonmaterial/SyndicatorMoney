@@ -1,5 +1,6 @@
 ## Interface: 110002
 ## Title: SyndicatorMoney
+## Author: toonmaterial
 ## Version: 1.0.0
 ## RequiredDeps: Syndicator
 
