@@ -1,0 +1,6 @@
+## Interface: 110002
+## Title: SyndicatorMoney
+## Version: 1.0.0
+## RequiredDeps: Syndicator
+
+SyndicatorMoney.lua
